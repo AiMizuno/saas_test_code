@@ -1,0 +1,13 @@
+{
+    "host": "localhost",
+    "port": "5432",
+    "user": "postgres",
+    "password": "asdfgH11",
+    "database": "tpcc",
+
+    "host_sql": "localhost",
+    "port_sql": "3306",
+    "user_sql": "root",
+    "password_sql": "asdfgH11",
+    "database_sql": "tpcc"
+}
