@@ -58,3 +58,4 @@ Transaction.py
 	1.使用前修改config.json里面的配置
 	2.使用时只需要引用base_method.py和saas_method.py即可
 	3.接口表达能力有限，对于复杂操作需要进行二次处理
+	4.这是一条测试信息
